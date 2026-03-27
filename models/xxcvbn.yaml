@@ -1,0 +1,9 @@
+title: xxcvbn
+x-stoplight:
+  id: 1xr5uo394wwq1
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 7cbqvhszdkqjc
